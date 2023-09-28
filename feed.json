@@ -5,7 +5,7 @@
     "home_page_url": "https://alxfsl.github.io/sustainability-in-the-making",
     "feed_url": "https://alxfsl.github.io/sustainability-in-the-making/feed.json",
     "user_comment": "",
-    "icon": "https://alxfsl.github.io/sustainability-in-the-making/media/website/alxfsl_logo_small_yellow-2.png",
+    "icon": "https://alxfsl.github.io/sustainability-in-the-making/media/website/alxfsl_logo_small_yellow.png",
     "author": {
         "name": "Alessandra Fasoli"
     },
@@ -13,30 +13,31 @@
         {
             "id": "https://alxfsl.github.io/sustainability-in-the-making/about-sustainability-in-the-making.html",
             "url": "https://alxfsl.github.io/sustainability-in-the-making/about-sustainability-in-the-making.html",
-            "title": "About Sustainability in the Making ",
+            "title": "Sustainability in the Making ",
             "summary": "Sustainability in the Making is a PhD project that explores how cultures of making can contribute to sustainability change. In other words, my project aims to understand the role of craft programmes and initiatives as social enabler for generating and promoting cultures of sustainability In&hellip;",
-            "content_html": "<p class=\"align-center\">Sustainability in the Making is a PhD project that explores how cultures of making can contribute to sustainability change.<br><br>In other words, my project aims to understand the role of craft programmes and initiatives as social enabler for generating and promoting cultures of sustainability<br><br>In this page you can find updates on the my project, from small essays, community activities, and information on how to get involved.</p>",
+            "content_html": "<p class=\"align-center msg--highlight  msg--info\">Sustainability in the Making is a PhD project that explores how cultures of making can contribute to sustainability change.<br><br>In other words, my project aims to understand the role of craft programmes and initiatives as social enabler for generating and promoting cultures of sustainability<br><br>In this page you can find updates on the my project, from small essays, community activities, and information on how to get involved.</p>\n<p> </p>",
+            "image": "https://alxfsl.github.io/sustainability-in-the-making/media/posts/8/230520_GMI_Sarah_web-2.jpg",
             "author": {
                 "name": "Alessandra Fasoli"
             },
             "tags": [
             ],
             "date_published": "2023-09-28T16:31:14+01:00",
-            "date_modified": "2023-09-28T16:46:49+01:00"
+            "date_modified": "2023-09-28T21:35:13+01:00"
         },
         {
             "id": "https://alxfsl.github.io/sustainability-in-the-making/sustainability-in-the-making.html",
             "url": "https://alxfsl.github.io/sustainability-in-the-making/sustainability-in-the-making.html",
-            "title": "Sustainability in the Making",
+            "title": "HOME",
             "summary": "Sustainability in the Making (former title: Craft in Makerspaces: The Potential for Social Change for Sustainability) is a practice-based doctoral training partnership sponsored by AHRC Techne. Based at Kingston School of Art and done in partnership with the Crafts Council, my research started as an&hellip;",
-            "content_html": "\n  <p class=\"msg msg--success align-center\">\n    <i>Sustainability in the Making</i>  (former title: <i>Craft in Makerspaces: The Potential for Social Change for Sustainability</i>) is a practice-based doctoral training partnership sponsored by AHRC Techne. \n<br>\n<br>Based at Kingston School of Art and done in partnership with the Crafts Council,  my research started as an investigation of the cultural role of makerspaces. However, following considerations emerging from social and environmental changes over the last few years, I decided to take a broader social and cultural perspective on making which goes a bit beyond makerspaces. \n<br>\n<br>\n  </p>",
+            "content_html": "\n    <figure class=\"post__image post__image--full\">\n      <img loading=\"lazy\" src=\"https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/230520_GMI_Sarah_web.jpg\" height=\"2481\" width=\"3508\" alt=\"watercolour drawing of a pottery maker\"  sizes=\"100vw\" srcset=\"https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-xs.webp 300w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-sm.webp 480w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-md.webp 768w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-lg.webp 1024w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-xl.webp 1360w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-2xl.webp 1600w\">\n      \n    </figure>\n\n  <p class=\"align-center\">\n    <i>Sustainability in the Making</i>  (former title: <i>Craft in Makerspaces: The Potential for Social Change for Sustainability</i>) is a practice-based doctoral training partnership sponsored by AHRC Techne. \n<br>\n<br>Based at Kingston School of Art and done in partnership with the Crafts Council,  my research started as an investigation of the cultural role of makerspaces. However, following considerations emerging from social and environmental changes over the last few years, I decided to take a broader social and cultural perspective on making which goes a bit beyond makerspaces.<br>\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/gallery/2306_Craft-Festival-Bovey-Tracey.jpg\" data-size=\"4032x3024\">\n        <img loading=\"lazy\" src=\"https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/gallery/2306_Craft-Festival-Bovey-Tracey-thumbnail.webp\" height=\"540\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/gallery/230520_GMI_Sarah_web.jpg\" data-size=\"3508x2481\">\n        <img loading=\"lazy\" src=\"https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/gallery/230520_GMI_Sarah_web-thumbnail.webp\" height=\"509\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
             "author": {
                 "name": "Alessandra Fasoli"
             },
             "tags": [
             ],
             "date_published": "2023-09-10T22:30:29+01:00",
-            "date_modified": "2023-09-28T19:28:09+01:00"
+            "date_modified": "2023-09-28T21:40:49+01:00"
         }
     ]
 }
