@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Sustainability in the Making</title>
+    <link href="https://alxfsl.github.io/sustainability-in-the-making/feed.xml" rel="self" />
+    <link href="https://alxfsl.github.io/sustainability-in-the-making" />
+    <updated>2023-09-28T16:46:49+01:00</updated>
+    <author>
+        <name>Alessandra Fasoli</name>
+    </author>
+    <id>https://alxfsl.github.io/sustainability-in-the-making</id>
+
+    <entry>
+        <title>About Sustainability in the Making </title>
+        <author>
+            <name>Alessandra Fasoli</name>
+        </author>
+        <link href="https://alxfsl.github.io/sustainability-in-the-making/about-sustainability-in-the-making.html"/>
+        <id>https://alxfsl.github.io/sustainability-in-the-making/about-sustainability-in-the-making.html</id>
+
+        <updated>2023-09-28T16:46:49+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Sustainability in the Making is a PhD project that explores how cultures&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">Sustainability in the Making is a PhD project that explores how cultures of making can contribute to sustainability change.<br><br>In other words, my project aims to understand the role of craft programmes and initiatives as social enabler for generating and promoting cultures of sustainability<br><br>In this page you can find updates on the my project, from small essays, community activities, and information on how to get involved.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Sustainability in the Making</title>
+        <author>
+            <name>Alessandra Fasoli</name>
+        </author>
+        <link href="https://alxfsl.github.io/sustainability-in-the-making/sustainability-in-the-making.html"/>
+        <id>https://alxfsl.github.io/sustainability-in-the-making/sustainability-in-the-making.html</id>
+
+        <updated>2023-09-10T22:30:29+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Sustainability in the Making (former title: Craft in Makerspaces: The Potential for&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p class="msg msg--success align-center">
+    <i>Sustainability in the Making</i>  (former title: <i>Craft in Makerspaces: The Potential for Social Change for Sustainability</i>) is a practice-based doctoral training partnership sponsored by AHRC Techne. 
+<br>
+<br>Based at Kingston School of Art and done in partnership with the Crafts Council,  my research started as an investigation of the cultural role of makerspaces. However, following considerations emerging from social and environmental changes over the last few years, I decided to take a broader social and cultural perspective on making which goes a bit beyond makerspaces. 
+<br>
+<br>
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

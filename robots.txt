@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://alxfsl.github.io/sustainability-in-the-making/sitemap.xml

@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Sustainability in the Making",
+    "description": "",
+    "home_page_url": "https://alxfsl.github.io/sustainability-in-the-making",
+    "feed_url": "https://alxfsl.github.io/sustainability-in-the-making/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Alessandra Fasoli"
+    },
+    "items": [
+        {
+            "id": "https://alxfsl.github.io/sustainability-in-the-making/about-sustainability-in-the-making.html",
+            "url": "https://alxfsl.github.io/sustainability-in-the-making/about-sustainability-in-the-making.html",
+            "title": "About Sustainability in the Making ",
+            "summary": "Sustainability in the Making is a PhD project that explores how cultures&hellip;",
+            "content_html": "<p class=\"align-center\">Sustainability in the Making is a PhD project that explores how cultures of making can contribute to sustainability change.<br><br>In other words, my project aims to understand the role of craft programmes and initiatives as social enabler for generating and promoting cultures of sustainability<br><br>In this page you can find updates on the my project, from small essays, community activities, and information on how to get involved.</p>",
+            "author": {
+                "name": "Alessandra Fasoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-28T16:31:14+01:00",
+            "date_modified": "2023-09-28T16:46:49+01:00"
+        },
+        {
+            "id": "https://alxfsl.github.io/sustainability-in-the-making/sustainability-in-the-making.html",
+            "url": "https://alxfsl.github.io/sustainability-in-the-making/sustainability-in-the-making.html",
+            "title": "Sustainability in the Making",
+            "summary": "Sustainability in the Making (former title: Craft in Makerspaces: The Potential for&hellip;",
+            "content_html": "\n  <p class=\"msg msg--success align-center\">\n    <i>Sustainability in the Making</i>  (former title: <i>Craft in Makerspaces: The Potential for Social Change for Sustainability</i>) is a practice-based doctoral training partnership sponsored by AHRC Techne. \n<br>\n<br>Based at Kingston School of Art and done in partnership with the Crafts Council,  my research started as an investigation of the cultural role of makerspaces. However, following considerations emerging from social and environmental changes over the last few years, I decided to take a broader social and cultural perspective on making which goes a bit beyond makerspaces. \n<br>\n<br>\n  </p>",
+            "author": {
+                "name": "Alessandra Fasoli"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-09-10T22:30:29+01:00",
+            "date_modified": "2023-09-10T22:30:29+01:00"
+        }
+    ]
+}
