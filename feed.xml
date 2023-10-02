@@ -3,7 +3,7 @@
     <title>Sustainability in the Making</title>
     <link href="https://alxfsl.github.io/sustainability-in-the-making/feed.xml" rel="self" />
     <link href="https://alxfsl.github.io/sustainability-in-the-making" />
-    <updated>2023-09-28T21:40:49+01:00</updated>
+    <updated>2023-10-01T17:39:41+01:00</updated>
     <author>
         <name>Alessandra Fasoli</name>
     </author>
@@ -17,12 +17,13 @@
         <link href="https://alxfsl.github.io/sustainability-in-the-making/about-sustainability-in-the-making.html"/>
         <id>https://alxfsl.github.io/sustainability-in-the-making/about-sustainability-in-the-making.html</id>
         <media:content url="https://alxfsl.github.io/sustainability-in-the-making/media/posts/8/230520_GMI_Sarah_web-2.jpg" medium="image" />
+            <category term="About"/>
 
-        <updated>2023-09-28T21:35:13+01:00</updated>
+        <updated>2023-10-01T17:39:41+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://alxfsl.github.io/sustainability-in-the-making/media/posts/8/230520_GMI_Sarah_web-2.jpg" alt="" />
-                    Sustainability in the Making is a PhD project that explores how cultures of making can contribute to sustainability change. In other words, my project aims to understand the role of craft programmes and initiatives as social enabler for generating and promoting cultures of sustainability In&hellip;
+                    Sustainability in the Making is a PhD project that explores how cultures of making can contribute to sustainability change.
                 ]]>
             </summary>
         <content type="html">
@@ -44,14 +45,14 @@
         <updated>2023-09-28T21:40:49+01:00</updated>
             <summary>
                 <![CDATA[
-                    Sustainability in the Making (former title: Craft in Makerspaces: The Potential for Social Change for Sustainability) is a practice-based doctoral training partnership sponsored by AHRC Techne. Based at Kingston School of Art and done in partnership with the Crafts Council, my research started as an&hellip;
+                    Sustainability in the Making (former title: Craft in Makerspaces: The Potential for Social Change for Sustainability) is a practice-based&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
     <figure class="post__image post__image--full">
-      <img loading="lazy" src="https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/230520_GMI_Sarah_web.jpg" height="2481" width="3508" alt="watercolour drawing of a pottery maker"  sizes="100vw" srcset="https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-xs.webp 300w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-sm.webp 480w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-md.webp 768w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-lg.webp 1024w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-xl.webp 1360w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-2xl.webp 1600w">
+      <img loading="lazy" src="https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/230520_GMI_Sarah_web.jpg" height="2481" width="3508" alt="watercolour drawing of a pottery maker"  sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-xs.webp 300w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-sm.webp 480w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-md.webp 768w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-xl.webp 1200w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-xxl.webp 1600w ,https://alxfsl.github.io/sustainability-in-the-making/media/posts/6/responsive/230520_GMI_Sarah_web-xxxl.webp 1920w">
       
     </figure>
 
