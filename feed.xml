@@ -3,7 +3,7 @@
     <title>Sustainability in the Making</title>
     <link href="https://alxfsl.github.io/sustainability-in-the-making/feed.xml" rel="self" />
     <link href="https://alxfsl.github.io/sustainability-in-the-making" />
-    <updated>2023-10-02T21:59:20+01:00</updated>
+    <updated>2023-10-02T22:00:27+01:00</updated>
     <author>
         <name>Alessandra Fasoli</name>
     </author>
@@ -87,8 +87,10 @@
         </author>
         <link href="https://alxfsl.github.io/sustainability-in-the-making/sound-trial.html"/>
         <id>https://alxfsl.github.io/sustainability-in-the-making/sound-trial.html</id>
+            <category term="Hero"/>
+            <category term="About"/>
 
-        <updated>2023-10-02T21:59:20+01:00</updated>
+        <updated>2023-10-02T22:00:27+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
