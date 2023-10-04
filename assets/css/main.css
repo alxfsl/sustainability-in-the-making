@@ -810,7 +810,7 @@ textarea {
   border-bottom: 1px solid var(--border-color-lightest);
   display: -ms-grid;
   display: grid;
-      grid-template-areas: "nav logo search";
+      grid-template-areas: "logo search nav";
   -ms-grid-columns: auto 1.3rem 1fr 1.3rem auto;
   grid-template-columns: auto 1fr auto;
   grid-column-gap: 1.3rem;
@@ -829,7 +829,7 @@ textarea {
 }
 @media all and (min-width: 56.25em) {
   .header__inner {
-        grid-template-areas: "logo nav search";
+        grid-template-areas: "logo search nav";
     -ms-grid-columns: auto 1fr auto;
     grid-template-columns: auto 1fr auto;
   }
@@ -880,8 +880,8 @@ textarea {
 }
 @media all and (max-width: 56.1875em) {
   .logo {
-    -ms-grid-column-align: center;
-        justify-self: center;
+    -ms-grid-column-align: left;
+        justify-self: left;
   }
 }
 .logo__link {
