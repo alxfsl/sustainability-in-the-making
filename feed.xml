@@ -3,7 +3,7 @@
     <title>Sustainability in the Making</title>
     <link href="https://sustainabilityinthemaking.com/feed.xml" rel="self" />
     <link href="https://sustainabilityinthemaking.com" />
-    <updated>2023-10-21T17:53:07+01:00</updated>
+    <updated>2023-10-21T19:00:06+01:00</updated>
     <author>
         <name>Alessandra Fasoli</name>
     </author>
@@ -20,7 +20,7 @@
             <category term="EthnoGRAPHIC"/>
             <category term="About"/>
 
-        <updated>2023-10-10T20:55:08+01:00</updated>
+        <updated>2023-10-21T18:58:15+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sustainabilityinthemaking.com/media/posts/13/230609_Craft-Festival-Bovey-Tracey-2.png" alt="sketchbook spread with watercolour drawings of a man weaving a chair seat (left) and a woman teaching a child to use the loom (right)" />
@@ -49,7 +49,7 @@ However, <em>EthnoGRAPHIC</em> is a multi-faceted methodology I am developing fo
             <category term="Hero"/>
             <category term="About"/>
 
-        <updated>2023-10-21T17:53:07+01:00</updated>
+        <updated>2023-10-21T19:00:06+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sustainabilityinthemaking.com/media/posts/8/230520_GMI_Sarah_web-2.jpg" alt="watercolour drawing of a woman making pottery" />
@@ -59,7 +59,8 @@ However, <em>EthnoGRAPHIC</em> is a multi-faceted methodology I am developing fo
         <content type="html">
             <![CDATA[
                     <p><img src="https://sustainabilityinthemaking.com/media/posts/8/230520_GMI_Sarah_web-2.jpg" class="type:primaryImage" alt="watercolour drawing of a woman making pottery" /></p>
-                <nav class="post__toc">
+                <div class="reading-indicator"> </div>
+<nav class="post__toc">
 <h3><span>Table of Contents</span><button class="post__toc-toggle">show</button></h3>
 <ol>
 <li><a href="#mcetoc_1hd9if26is">Sustainability in the Making is a PhD project that explores how cultures of making can contribute to sustainability change.</a></li>

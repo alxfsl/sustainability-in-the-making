@@ -3588,3 +3588,37 @@ textarea {
 .pswp--light .pswp__caption__center {
   color: var(--text-color-lightest);
 }
+
+/*reading bar*/
+.reading-progress {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: calc(100% - 100vh);
+  z-index: -1;
+  overflow: hidden;
+}
+
+.reading-progress::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: -0.5%;
+  width: 101%;
+  height: 10px;
+  background: linear-gradient(90deg, #369, #396);
+}
+
+.reading-progress::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: -0.5%;
+  width: 101%;
+  height: 100%;
+  background: linear-gradient(to bottom left, #fff 50%, #fff0 50%);
+}
+html {
+  position: relative;
+}
