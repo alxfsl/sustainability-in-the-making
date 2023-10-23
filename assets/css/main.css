@@ -82,7 +82,7 @@ body {
 
 a {
   color: var(--link-color);
-  text-decoration: underline;
+  text-decoration: none;
   -webkit-transition: all 0.24s ease;
   transition: all 0.24s ease;
 }
