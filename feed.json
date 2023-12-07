@@ -45,19 +45,6 @@
             "date_modified": "2023-12-06T22:36:00+00:00"
         },
         {
-            "id": "https://sustainabilityinthemaking.com/sound-trial/",
-            "url": "https://sustainabilityinthemaking.com/sound-trial/",
-            "title": "Sound trial",
-            "content_html": "<figure class=\"post__audio\"><audio loading=\"lazy\" controls=\"controls\" src=\"media/files/Recording.m4a\" data-mce-fragment=\"1\"></audio></figure>\n<p class=\"align-center\"> </p>",
-            "author": {
-                "name": "Alessandra Fasoli"
-            },
-            "tags": [
-            ],
-            "date_published": "2023-08-26T22:16:28+01:00",
-            "date_modified": "2023-10-03T19:32:45+01:00"
-        },
-        {
             "id": "https://sustainabilityinthemaking.com/craft-sustainability-and-makerspaces-a-brief-intro-to-my-research/",
             "url": "https://sustainabilityinthemaking.com/craft-sustainability-and-makerspaces-a-brief-intro-to-my-research/",
             "title": "Craft, Sustainability, and Makerspaces: a Brief Intro to my Research",
