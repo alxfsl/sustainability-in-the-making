@@ -3,12 +3,45 @@
     <title>Sustainability in the Making</title>
     <link href="https://sustainabilityinthemaking.com/feed.xml" rel="self" />
     <link href="https://sustainabilityinthemaking.com" />
-    <updated>2023-12-19T12:14:19+00:00</updated>
+    <updated>2023-12-31T12:56:56+00:00</updated>
     <author>
         <name>Alessandra Fasoli</name>
     </author>
     <id>https://sustainabilityinthemaking.com</id>
 
+    <entry>
+        <title>Sustainability in the Making: Craft Programmes for Eco-Social Change</title>
+        <author>
+            <name>Alessandra Fasoli</name>
+        </author>
+        <link href="https://sustainabilityinthemaking.com/about/"/>
+        <id>https://sustainabilityinthemaking.com/about/</id>
+        <media:content url="https://sustainabilityinthemaking.com/media/posts/18/new-hero-2.webp" medium="image" />
+            <category term="Hero"/>
+            <category term="About"/>
+
+        <updated>2023-12-31T12:56:56+00:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sustainabilityinthemaking.com/media/posts/18/new-hero-2.webp" alt="decorative collage of sketches of people doing crafts and plants" />
+                    This PhD focuses on how cultures of sustainability can be generated and promoted through craft and maker programmes. Cultures&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sustainabilityinthemaking.com/media/posts/18/new-hero-2.webp" class="type:primaryImage" alt="decorative collage of sketches of people doing crafts and plants" /></p>
+                
+  <p>
+    This PhD focuses on how cultures of sustainability can be generated and promoted through craft and maker programmes. Cultures of sustainability are collective systems of knowledge and customs rooted in environmental and ecological values, which allow both individuals and communities to adopt more environmentally-friendly behaviours, lifestyles, and norms.
+<br>Many studies on sustainable craft focus on the way makers embody sustainability in their creative process: for example how they use recycled or upcycled materials, create artefacts using local resources, or make objects with specific sustainable purposes. This PhD, however, looks at sustainable craft from a different perspective, which sees craft and making as social activities through which people share, transform, and create cultural values, like preserving traditions, building local identities, sharing worldviews, creating a sense of place or collective histories.
+  </p>
+
+  <p>
+    By connecting this definition of sustainable craft with cultures of sustainability, this PhD asks if and how craft can be a vehicle to build sustainability cultures and aims to answer this question by studying existing craft programmes that promote specific environmental, ecological, and sustainable approaches through making.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Ethno/GRAPHIC: doing design research one drawing at a time</title>
         <author>
@@ -35,36 +68,6 @@ Having worked as a graphic designer and being myself a <em>urban sketcher</em> ,
 However, <em>EthnoGRAPHIC</em> is a multi-faceted methodology I am developing for my research that comprises various tools, this website being one of them. </p>
 <p>As I am still working on my research, this website is a work-in-progress to that I am using to both showcase the work, reflect upon it, and finally tell the stories I am collecting. </p>
 
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Sustainability in the Making: Craft Programmes for Eco-Social Change </title>
-        <author>
-            <name>Alessandra Fasoli</name>
-        </author>
-        <link href="https://sustainabilityinthemaking.com/about-sustainability-in-the-making/"/>
-        <id>https://sustainabilityinthemaking.com/about-sustainability-in-the-making/</id>
-        <media:content url="https://sustainabilityinthemaking.com/media/posts/8/new-hero-2.webp" medium="image" />
-            <category term="Hero"/>
-            <category term="About"/>
-
-        <updated>2023-12-19T12:14:19+00:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://sustainabilityinthemaking.com/media/posts/8/new-hero-2.webp" alt="collage of watercolour drawings and sketches of people doing craft and nature" />
-                    Sustainability in the Making is a PhD project that explores cultures of making can contribute to sustainability change. In&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://sustainabilityinthemaking.com/media/posts/8/new-hero-2.webp" class="type:primaryImage" alt="collage of watercolour drawings and sketches of people doing craft and nature" /></p>
-                <h3><span><em>Sustainability in the Making</em> is a PhD project that explores  cultures of making can contribute to sustainability change.</span><button class="post__toc-toggle">show</button></h3>
-<p>In other words, my project aims to understand the role of craft programmes and initiatives as social enabler for generating and promoting cultures of sustainability.</p>
-<figure class="post__image"><img loading="lazy"  src="https://sustainabilityinthemaking.com/media/posts/8/hero-weaving-trio.webp" alt="watercolour drawing of three women learning basket weaving. The woman at the centre is standing demonstrating a technique to the other two, seated on both her sides." width="2560" height="1440" sizes="(max-width: 1200px) 100vw, 1200px" srcset="https://sustainabilityinthemaking.com/media/posts/8/responsive/hero-weaving-trio-xs.webp 300w ,https://sustainabilityinthemaking.com/media/posts/8/responsive/hero-weaving-trio-sm.webp 480w ,https://sustainabilityinthemaking.com/media/posts/8/responsive/hero-weaving-trio-md.webp 768w ,https://sustainabilityinthemaking.com/media/posts/8/responsive/hero-weaving-trio-xl.webp 1200w ,https://sustainabilityinthemaking.com/media/posts/8/responsive/hero-weaving-trio-xxl.webp 1600w ,https://sustainabilityinthemaking.com/media/posts/8/responsive/hero-weaving-trio-xxxl.webp 1920w"><figcaption>Alessandra Fasoli, 2023. 'Learning basket weaving', watercolour drawing from an online picture.</figcaption></figure>
-<p>This PhD focuses on how cultures of sustainability can be generated and promoted through craft and maker programmes. <em>Cultures of sustainability </em>are collective systems of knowledge and customs rooted in environmental and ecological values, which allow both individuals and communities to adopt more environmentally-friendly behaviours, lifestyles, and norms.<br>Many studies on <em>sustainable craft</em> focus on the way makers embody sustainability in their creative process: for example how they use  recycled or upcycled materials, create artefacts using local resources, or make objects with specific sustainable purposes. This PhD, however, looks at <em>sustainable craft</em> from a different perspective, which sees craft and making as social activities through which people share, transform, and create cultural values, like preserving traditions, building local identities, sharing worldviews, creating a sense of place or collective histories.</p>
-<p>By connecting this definition of <em>sustainable craft </em>with <em>cultures of sustainability</em>, this PhD asks if and how craft can be a vehicle to build sustainability cultures and aims to answer this question by studying existing craft programmes that promote specific environmental, ecological, and sustainable approaches through making.</p>
-<p> </p>
             ]]>
         </content>
     </entry>
