@@ -3,12 +3,52 @@
     <title>Sustainability in the Making</title>
     <link href="https://sustainabilityinthemaking.com/feed.xml" rel="self" />
     <link href="https://sustainabilityinthemaking.com" />
-    <updated>2024-02-20T16:12:59+00:00</updated>
+    <updated>2024-02-28T18:53:08+00:00</updated>
     <author>
         <name>Alessandra Fasoli</name>
     </author>
     <id>https://sustainabilityinthemaking.com</id>
 
+    <entry>
+        <title>Resources</title>
+        <author>
+            <name>Alessandra Fasoli</name>
+        </author>
+        <link href="https://sustainabilityinthemaking.com/resources/"/>
+        <id>https://sustainabilityinthemaking.com/resources/</id>
+            <category term="Resources"/>
+
+        <updated>2024-02-28T18:53:08+00:00</updated>
+            <summary>
+                <![CDATA[
+                    External Links Programmes and Initiatives MAKE Southwest: The Green Maker Initiative Arts University Plymouth Fab Lab: Smart Citizens Programme
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="external-links">
+      External Links
+    </h2>
+
+    <h3 id="programmes-and-initiatives">
+      Programmes and Initiatives
+    </h3>
+
+  <p>
+    <a href="https://makesouthwest.org.uk/green-maker-initiative" target="_blank" rel="nofollow noopener">MAKE Southwest: The Green Maker Initiative</a>
+  </p>
+
+  <p>
+    <a href="https://www.fablabplymouth.org/projects/smart-citizens-programme/" target="_blank">Arts University Plymouth Fab Lab: Smart Citizens Programme</a>
+  </p>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Knowing Devon Craft Communities: The Green Maker Initiative Event</title>
         <author>
