@@ -3,7 +3,7 @@
     <title>Sustainability in the Making</title>
     <link href="https://sustainabilityinthemaking.com/feed.xml" rel="self" />
     <link href="https://sustainabilityinthemaking.com" />
-    <updated>2024-03-07T13:11:36+00:00</updated>
+    <updated>2024-03-14T11:00:05+00:00</updated>
     <author>
         <name>Alessandra Fasoli</name>
     </author>
@@ -21,12 +21,46 @@
         <updated>2024-02-28T18:51:19+00:00</updated>
             <summary>
                 <![CDATA[
-                    External Links Programmes and Initiatives MAKE Southwest: The Green Maker Initiative Arts University Plymouth Fab Lab: Smart Citizens Programme
+                    Sustainability in the Making Zine&nbsp; Coming Soon. Sign to the Sustainability in the Making Newsletter to receive information and&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
+    <h2 id="sustainability-in-the-making-zineandnbsp">
+      Sustainability in the Making Zine&nbsp;
+    </h2>
+
+  <p>
+    Coming Soon. Sign to the Sustainability in the Making Newsletter to receive information and updates:
+  </p>
+<hr class="separator separator--dots" />
+<div><div>
+<p> 
+  A quartely newsletter containing updates on the advancements of the research. Sign for receiving updates on new posts, publications, and downloadable and printable resources.
+</p>
+<p>
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/sustainability-in-the-making"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/sustainability-in-the-making', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+</form> 
+</p>
+ <p>
+    <a href="https://buttondown.email/refer/sustainability-in-the-making" target="_blank">Powered by Buttondown.</a>
+  </p>
+</div>
+
+</div>
+<hr class="separator separator--dots" />
+
     <h2 id="external-links">
       External Links
     </h2>
@@ -94,6 +128,26 @@
 <br>The online space is a<b> website</b> — that you are visiting right now by reading this page —  build along as the research progresses to showcase and narration of the findings. This is meant to be a<b> virtual home of the project</b>, where participants and visitors can see the progress of the research in the Galleries section. A Resources in the Making is a work-in-progress space for anyone who visit it to engage with the initiatives presented or find inspiration and guides for starting their own.
 <br>
 <br>This website and the methodology page are updated regularly.&nbsp;
+  </p>
+
+    <h2 id="taking-part-in-the-study">
+      Taking Part in the Study
+    </h2>
+
+  <p>
+    If you would like your craft event to be part of the study, please write an email to <b>a.fasoli@kingston.ac.uk </b>with a description of your event and the programme/initiative it is part of.&nbsp;
+  </p>
+
+  <p>
+    If you have being invited to participate, please read the Participant Information Sheet and sign the Informed Consent accordingly:
+  </p>
+
+  <ul>
+    <li>You have been invited for an interview: <a href="https://sustainabilityinthemaking.com/interviews-participant-information-sheet/">Participant Information Sheet&nbsp;for interview</a></li><li>You are running a workshop/event where Alex will be sketching: <a href="https://sustainabilityinthemaking.com/sketching-participant-information-sheet-facilitators/">Participant Information Sheet for facilitators of craft events</a></li><li>You are participating in a workshop/event where Alex will be sketching: <a href="https://sustainabilityinthemaking.com/participant-information-sheet-people-craft-events/">Participant Information Sheet for participants in craft events</a></li>
+  </ul>
+
+  <p>
+    The link to the respective Informed Consent can be found at the end of each Participant Information Sheet. Signing the Informed Consent is mandatory to participate in the study.&nbsp;
   </p>
             ]]>
         </content>
